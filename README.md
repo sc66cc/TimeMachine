@@ -21,22 +21,19 @@
 - ☁️ ​**​Cloud-based project system​**​ ensuring reproducible research with version-controlled workflows
 
 ## Supported Data
-- 10+ global plate models (PALEOMAP, MERDITH2021, MULLER2022, etc.)
+- 5+ global plate models (PALEOMAP, MERDITH2021, MULLER2022, etc.)
 - Time-dependent raster atlases (PaleoDEMs, paleoclimate models)
-- Standard geospatial formats: GPML, GeoJSON, NetCDF, GeoTIFF
 - Custom spreadsheet upload with temporal metadata support
 
 ## Use Cases
 - Cretaceous paleogeographic reconstruction with fossil data integration
-- Paleotopography evolution analysis across tectonic cycles
-- Multi-model comparison of plate boundary configurations
-- Educational visualization of supercontinent cycles (Pangea to present)
+- Paleotopography evolution analysis through Geologic Time
 
 ## Repository Purpose
 This GitHub repository hosts:
-- Core system codebase
-- Documentation and API references
-- Example datasets and project templates
+- Core system codebase (in progress)
+- Documentation and API references (in progress)
+- Example datasets and project templates (in progress)
 - Issue tracker for feature requests/bug reports
 
 ​**​Latest versions​**​ of Time Machine will be published through this repository. Current production version: ​**Beta ​v1.0.0​**​ (2025.04 beta release) - [Live Demo](https://deeptime.world/TimeMachine)
