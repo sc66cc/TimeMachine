@@ -36,8 +36,8 @@ This GitHub repository hosts:
 - Example datasets and project templates (in progress)
 - Issue tracker for feature requests/bug reports
 
-​**​Latest versions​**​ of Time Machine will be published through this repository. Current production version: ​**Beta ​v1.0.0​**​ (2025.04 beta release) - [Live Demo](https://deeptime.world/TimeMachine)
+​**​Latest versions​**​ of Time Machine will be published through this repository. Current production version: ​**Beta ​v1.0.0​**​ (2025.04 beta release)
 
 ---
 
-Developed under the International Paleogeography Association, Time Machine aims to transform deep-time Earth system research through open-access, reproducible geoscience workflows. Contribute to advancing our understanding of Earth's 1.8 billion-year tectonic history!
+Developed under the International Paleogeography Association, Time Machine aims to transform deep-time Earth system research through open-access, reproducible geoscience workflows. Contribute to advancing our understanding of Earth's 4.5 billion-year history!
