@@ -8,7 +8,7 @@
 [http://8.139.252.61:8080/TimeMachine/](http://8.139.252.61:8080/TimeMachine/)
 
 💻 ​**​Local Application​**​  
-[Beta v1.0.0 version](https://github.com/sc66cc/TimeMachine/releases/tag/v1.0.1) validation in progress
+[Beta v1.0.1 version](https://github.com/sc66cc/TimeMachine/releases/tag/v1.0.1) validation in progress
 
 ## Key Features
 - 🚀 ​**​Real-time plate reconstruction​**​ with GPU-accelerated rasterization for rapid plate ID assignment
