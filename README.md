@@ -3,14 +3,12 @@
 ​**​Time Machine​**​ is an innovative web-based platform designed to revolutionize paleogeographic reconstruction by integrating real-time tectonic modeling, dynamic visualization, and cross-disciplinary data interoperability. Built on Unity3D and WebAssembly technologies, it enables researchers to perform GPU-accelerated plate reconstructions, visualize time-dependent paleogeographic atlases, and analyze Earth's evolution through deep time - all within a browser environment.
 
 ## Access Portal
-🌍 ​**​Production Environment​**​  
-[https://deeptime.world/TimeMachine/](https://deeptime.world/TimeMachine/)
 
 🧪 ​**​Testing Environment​**​  
 [http://8.139.252.61:8080/TimeMachine/](http://8.139.252.61:8080/TimeMachine/)
 
 💻 ​**​Local Application​**​  
-[Beta v1.0.0 version](https://github.com/sc66cc/TimeMachine/releases/tag/v1.0.0) validation in progress
+[Beta v1.0.0 version](https://github.com/sc66cc/TimeMachine/releases/tag/v1.0.1) validation in progress
 
 ## Key Features
 - 🚀 ​**​Real-time plate reconstruction​**​ with GPU-accelerated rasterization for rapid plate ID assignment
