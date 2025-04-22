@@ -2,6 +2,9 @@
 
 ​**​Time Machine​**​ is an innovative web-based platform designed to revolutionize paleogeographic reconstruction by integrating real-time tectonic modeling, dynamic visualization, and cross-disciplinary data interoperability. Built on Unity3D and WebAssembly technologies, it enables researchers to perform GPU-accelerated plate reconstructions, visualize time-dependent paleogeographic atlases, and analyze Earth's evolution through deep time - all within a browser environment.
 
+## User Mannual
+[https://docs.deeptime.world/](https://docs.deeptime.world/)
+
 ## Access Portal
 
 🧪 ​**​Testing Environment​**​  
