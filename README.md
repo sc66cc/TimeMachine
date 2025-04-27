@@ -40,7 +40,7 @@ This GitHub repository hosts:
 - Example datasets and project templates (in progress)
 - Issue tracker for feature requests/bug reports
 
-​**​Latest versions​**​ of Time Machine will be published through this repository. Current production version: ​**Beta ​v1.0.0​**​ (2025.04 beta release)
+​**​Latest versions​**​ of Time Machine will be published through this repository. Current production version: ​**Beta ​v1.1.0​**​ (2025.04 beta release)
 
 ---
 
