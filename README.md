@@ -7,8 +7,6 @@
 🌍**Production Environment**  
 [https://deeptime.world/TimeMachine/](https://deeptime.world/TimeMachine/)
 
-🧪 ​**​Testing Environment​**​  
-[http://8.139.252.61:8080/TimeMachine/](http://8.139.252.61:8080/TimeMachine/)
 
 💻 ​**​Local Application​**​  
 [Beta v1.1.0 version](https://github.com/sc66cc/TimeMachine/releases/)
